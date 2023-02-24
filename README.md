@@ -1,4 +1,5 @@
 # Structured State Spaces for Sequence Modeling
+ **This is an internal version of S4 model for physio time series usage**
 
 This repository provides implementations and experiments for the following papers.
 
